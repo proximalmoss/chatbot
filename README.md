@@ -1,1 +1,1 @@
-# chatbot
+# Generative and agentic AI
