@@ -10,3 +10,10 @@ faiss-cpu
 phidata
 google-generativeai
 duckduckgo-search
+apno
+openai
+langdb
+tantivy
+yfinance
+groq
+ddgs
